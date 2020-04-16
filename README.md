@@ -1,7 +1,7 @@
-# React into til easy peasy
+# Reactjs into til easy peasy
 
 ## Projektbeskrivelse
-dette Projekt er en standardpakke med full crud som viser for hvordan man bruger react med react easy
+dette Projekt er et Eksempel med full crud som viser for hvordan man bruger react med easy peasy
 
 ## kommandor 
 for at køre flask http server `cd sever` og derefter `npm install` denne pakke/modul for at køre server `npm run dev`
